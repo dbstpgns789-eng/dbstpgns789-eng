@@ -4,7 +4,7 @@
 
 AI 에이전트와 함께 구현하고, 문제 정의·파이프라인 설계·평가와 통합을 맡습니다. 제가 내린 판단과 결과의 한계를 프로젝트별로 기록합니다.
 
-**[웹 포트폴리오 보기](https://dbstpgns789-eng.github.io/)** · [포트폴리오 PDF](https://dbstpgns789-eng.github.io/portfolio.pdf) · [이메일](mailto:dbstpgns789@hanyang.ac.kr)
+**[웹 포트폴리오 보기](https://dbstpgns789-eng.github.io/)** · [포트폴리오 PDF](https://dbstpgns789-eng.github.io/portfolio.pdf) · [LinkedIn](https://www.linkedin.com/in/%EC%84%B8%ED%9B%88-%EC%9C%A4-525a843b7/) · [이메일](mailto:dbstpgns789@hanyang.ac.kr)
 
 ## 프로젝트
 
